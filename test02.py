@@ -3,4 +3,4 @@
 a = 9
 
 for number in range(a):
-	print('Hi there! My number is %d' % (number))
+	print('Hi there! My number is {}'.format(number))
